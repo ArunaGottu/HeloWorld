@@ -1,0 +1,26 @@
+html,
+/* Color Scheme:
+Deep Red: #932432
+Lavender: #e2e9f6;
+Pure Purple: #3C1874 
+*/
+
+body {
+  color: #932432;
+  margin: 10px;
+	padding: 0px;
+	background: #e2e9f6;
+}
+h1 
+{
+	text-align: center;
+	color: #3C1874;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-size: 50px;
+	font-style: oblique;
+	font-weight: 900;
+	color: blue;
+}
+img {
+width: 80%;
+}
